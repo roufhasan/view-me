@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { FaPlus, FaRegPaperPlane } from "react-icons/fa6";
+import { FaLocationDot, FaPlus, FaRegPaperPlane } from "react-icons/fa6";
 const UserDetails = () => {
   const { id } = useParams();
   const [user, setUser] = useState(null);
@@ -44,11 +44,14 @@ const UserDetails = () => {
             <span className="text-4xl font-normal text-gray-400">I&apos;m</span>{" "}
             {user?.name}
           </h2>
+          <p className="mb-8 flex items-center gap-2 text-xl">
+            <FaLocationDot /> {user?.location}
+          </p>
           <p className="text-2xl md:text-3xl font-bold dark:text-white">
             About Me
           </p>
           <hr className="horizontal border mt-2" />
-          <p className="mt-4 pb-6 md:pb-0 text-lg text-gray-400">
+          <p className="mt-4 pb-6 md:pb-0 text-lg text-gray-400 max-w-2xl">
             {user?.details}
           </p>
         </div>

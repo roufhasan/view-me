@@ -4,90 +4,103 @@
     "name": "James Taylor",
     "email": "jamest@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1531891437562-4301cf35b7e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
-    "details": "Aenean tincidunt mi a arcu pellentesque, nec sodales urna volutpat."
+    "details": "James is a software engineer with 5 years of experience in web development. He specializes in front-end technologies such as React and enjoys building user-friendly interfaces. In his free time, he loves hiking and photography.",
+    "location": "New York, USA"
   },
   {
     "_id": "5",
     "name": "William Wilson",
     "email": "williamw@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Fusce quis felis ac justo consequat faucibus."
+    "details": "William is a creative problem solver who enjoys crafting unique user experiences. He has a knack for turning ideas into beautiful and functional websites.",
+    "location": "Los Angeles, USA"
   },
   {
     "_id": "4",
     "name": "Emily Brown",
     "email": "emilybrown@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
-    "details": "Nullam bibendum quam id urna ultrices, eu auctor justo venenatis."
+    "details": "Emily is a versatile developer with a love for coding and design. She enjoys creating visually appealing websites that captivate users.",
+    "location": "Chicago, USA"
   },
   {
     "_id": "9",
     "name": "Mia Lopez",
     "email": "mial@example.com",
-    "profile_photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Curabitur vehicula diam at quam hendrerit, nec bibendum justo vestibulum."
+    "profile_photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=M3xMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
+    "details": "Mia is a dedicated coder who is passionate about creating seamless user interfaces. She enjoys the process of turning ideas into interactive websites.",
+    "location": "Miami, USA"
   },
   {
     "_id": "11",
     "name": "Liam Garcia",
     "email": "liamg@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1530452540414-c17a65a637fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1527&q=80",
-    "details": "Suspendisse potenti. Sed nec mauris tincidunt, mattis tellus nec, semper justo."
+    "details": "Liam is an enthusiastic developer who enjoys tackling complex coding problems. He loves exploring new technologies and staying up-to-date with the latest trends.",
+    "location": "San Francisco, USA"
   },
   {
     "_id": "12",
     "name": "David Anderson",
     "email": "davida@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1580626831795-21588458f224?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1585&q=80",
-    "details": "Duis non sapien ac lectus ullamcorper egestas."
+    "details": "David is a coding enthusiast who enjoys building software solutions. He's always looking for ways to improve user experiences through his coding skills.",
+    "location": "Houston, USA"
   },
   {
     "_id": "3",
     "name": "Michael Johnson",
     "email": "michaelj@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Vestibulum vitae placerat libero, id congue ligula."
+    "details": "Michael is a coding enthusiast with a passion for crafting functional and efficient web applications. He loves tackling challenging projects.",
+    "location": "Boston, USA"
   },
   {
     "_id": "1",
     "name": "Jane Smith",
     "email": "janesmith@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    "details": "Jane is a web developer who enjoys creating clean and responsive websites. She's passionate about user-centered design and crafting user-friendly interfaces.",
+    "location": "Denver, USA"
   },
   {
     "_id": "8",
     "name": "Sophia Martinez",
     "email": "sophiam@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Vivamus tincidunt purus sit amet libero consectetur, a suscipit metus volutpat."
+    "details": "Sophia is a front-end developer who enjoys creating visually stunning websites. She has a keen eye for design and is passionate about web development.",
+    "location": "Texas, USA"
   },
   {
     "_id": "2",
     "name": "John Doe",
     "email": "johndoe@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Sed euismod semper ex, eu viverra augue dapibus non."
+    "details": "John is a visionary entrepreneur who combines his passion for technology with his drive for business innovation. He has a knack for identifying market trends and turning them into successful ventures. In his free time, he enjoys mentoring aspiring entrepreneurs and giving back to the community.",
+    "location": "San Diego, USA"
   },
   {
     "_id": "6",
     "name": "Olivia Davis",
     "email": "oliviad@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1522&q=80",
-    "details": "Pellentesque vehicula mi at est viverra, in ullamcorper lorem scelerisque."
+    "details": "Olivia is an adventurous spirit who finds inspiration in nature. She combines her love for coding with her passion for the outdoors, creating web applications that connect people with the beauty of the world.",
+    "location": "California, USA"
   },
   {
     "_id": "10",
     "name": "Ava Rodriguez",
     "email": "avar@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1577565177023-d0f29c354b69?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Phasellus nec risus sed tortor tincidunt tincidunt."
+    "details": "Ava is a problem-solving genius with a knack for turning complex challenges into elegant solutions. She's a coding enthusiast who believes that technology can change the world for the better.",
+    "location": "Michigan, USA"
   },
   {
     "_id": "13",
     "name": "Benjamin Hall",
     "email": "benjaminh@example.com",
     "profile_photo": "https://images.unsplash.com/photo-1528893057273-35e9c353ee76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80",
-    "details": "Proin et erat ut quam feugiat lacinia vel eu elit."
+    "details": "Benjamin is a visionary thinker who is passionate about exploring the boundaries of technology. He's a creative coder with a deep love for innovation.",
+    "location": "Alaska, USA"
   }
 ]

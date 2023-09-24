@@ -17,7 +17,7 @@ const Users = () => {
       <h3 className="font-semibold text-3xl text-center dark:text-white pt-8 pb-5">
         {users.length} users found
       </h3>
-      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 pb-12">
         {users.map((user) => (
           <UserCard key={user._id} user={user} />
         ))}
